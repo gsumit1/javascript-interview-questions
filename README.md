@@ -2,7 +2,7 @@
 
 > Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates
 
-Go to [Coding Exercise](#coding-exercise) for coding specific questions
+Go to [Coding Exercise](#coding-exercise) for coding specific questions:
 
 ## Downloading PDF/Epub formats
 
